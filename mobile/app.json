@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ecommerce-mobile",
+    "slug": "ecommerce-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "ios": { "bundleIdentifier": "com.ecommerce.mobile" },
+    "android": { "package": "com.ecommerce.mobile" }
+  }
+}

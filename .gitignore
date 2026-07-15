@@ -1,0 +1,11 @@
+node_modules/
+.pnp
+.env
+.env.local
+.vscode/
+.idea/
+.DS_Store
+mobile/.expo/
+backend/dist/
+logs/
+*.log
